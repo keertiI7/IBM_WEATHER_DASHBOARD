@@ -1,7 +1,7 @@
 // Weather Dashboard JavaScript - Enhanced for Indian Cities
 class WeatherDashboard {
     constructor() {
-        this.API_KEY = '0e2c773be6ba7bca3a8bdaff4025e50b';
+        this.API_KEY = 'YOUR_API_KEY';
         this.BASE_URL = 'https://api.openweathermap.org/data/2.5';
         
         // City name mappings for better results
